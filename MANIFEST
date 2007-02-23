@@ -1,0 +1,7 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Math-Coprimes.t
+lib/Math/Coprimes.pm
+META.yml                                 Module meta-data (added by MakeMaker)
